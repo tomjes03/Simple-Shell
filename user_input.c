@@ -197,5 +197,3 @@ return (create_error(&args[i + 1], 2));
 }
 return (0);
 }
-Footer
-
